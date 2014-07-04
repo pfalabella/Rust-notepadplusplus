@@ -13,7 +13,7 @@
             <Keywords name="Numbers, suffix1"></Keywords>
             <Keywords name="Numbers, suffix2"></Keywords>
             <Keywords name="Numbers, range"></Keywords>
-            <Keywords name="Operators1">( ) [ ] ... . , ^ % &gt; &lt; ! = + - | : =&gt; &gt;&gt; &lt;&lt; ;  ::</Keywords>
+            <Keywords name="Operators1">( ) [ ] ... . , ^ % &gt; &lt; ! = + - | : =&gt; &gt;&gt; &lt;&lt; ; ::</Keywords>
             <Keywords name="Operators2">_</Keywords>
             <Keywords name="Folders in code1, open">{</Keywords>
             <Keywords name="Folders in code1, middle"></Keywords>
@@ -25,11 +25,11 @@
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
             <Keywords name="Keywords1">as break do else false fn for if impl in let loop match mod priv pub return self super true trait type unsafe use while</Keywords>
-            <Keywords name="Keywords2">mut static extern struct enum ref</Keywords>
-            <Keywords name="Keywords3">float f32 f64 int i8 i16 i32 i64 uint u8 u16 u32 u64 bool</Keywords>
-            <Keywords name="Keywords4">macro_rules! fmt! format! env! stringify! include! include_str! include_bin! error! warn! info! debug! assert_eq! ident expr ty pat block</Keywords>
-            <Keywords name="Keywords5">println</Keywords>
-            <Keywords name="Keywords6">* ~ &amp; &apos; $ @</Keywords>
+            <Keywords name="Keywords2">mut static extern struct enum ref box</Keywords>
+            <Keywords name="Keywords3">f16 f32 f64 int i8 i16 i32 i64 uint u8 u16 u32 u64 bool str String</Keywords>
+            <Keywords name="Keywords4">macro_rules! fmt! format! env! stringify! include! include_str! include_bin! error! warn! info! debug! assert! assert_eq! println! write! vec! ident expr ty pat block</Keywords>
+            <Keywords name="Keywords5"></Keywords>
+            <Keywords name="Keywords6">* &amp; &apos; $ &amp;mut</Keywords>
             <Keywords name="Keywords7"></Keywords>
             <Keywords name="Keywords8"></Keywords>
             <Keywords name="Delimiters">00&quot; 01\ 02&quot; 03#[ 04 05] 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
