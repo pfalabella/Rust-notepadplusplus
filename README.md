@@ -1,7 +1,7 @@
 Rust-syntax file for notepad++
 ==============================
 
-Notepad++ syntax highlighting for Rust 0.9pre.
+Notepad++ syntax highlighting for Rust.
 
 Use: 
 * Download userDefineLang_rust.xml
