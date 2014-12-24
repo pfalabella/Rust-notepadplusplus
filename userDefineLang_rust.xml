@@ -24,7 +24,7 @@
             <Keywords name="Folders in comment, open"></Keywords>
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
-            <Keywords name="Keywords1">as break do else false fn for if impl in let loop match mod priv pub return self super true trait type unsafe use while</Keywords>
+            <Keywords name="Keywords1">as break continue do else false fn for if impl in let loop match mod priv pub return self super true trait type unsafe use while</Keywords>
             <Keywords name="Keywords2">mut static extern struct enum ref box</Keywords>
             <Keywords name="Keywords3">f16 f32 f64 int i8 i16 i32 i64 uint u8 u16 u32 u64 bool str String</Keywords>
             <Keywords name="Keywords4">macro_rules! fmt! format! env! stringify! include! include_str! include_bin! error! warn! info! debug! assert! assert_eq! println! write! vec! ident expr ty pat block</Keywords>
