@@ -28,7 +28,7 @@
             <Keywords name="Keywords2">mut static extern struct enum ref box const priv pub crate</Keywords>
             <Keywords name="Keywords3">f16 f32 f64 isize i8 i16 i32 i64 usize u8 u16 u32 u64 bool str String</Keywords>
             <Keywords name="Keywords4">macro_rules! fmt! format! env! try! stringify! include! include_str! include_bin! error! warn! info! debug! assert! assert_eq! println! print! write! panic! vec! ident expr ty pat block</Keywords>
-            <Keywords name="Keywords5">skipp \&apos; &amp;\&apos;</Keywords>
+            <Keywords name="Keywords5">\&apos; &amp;\&apos;</Keywords>
             <Keywords name="Keywords6">* &amp; $ &amp;mut</Keywords>
             <Keywords name="Keywords7"></Keywords>
             <Keywords name="Keywords8"></Keywords>
