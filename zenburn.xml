@@ -29,7 +29,7 @@
             <Keywords name="Keywords3">f16 f32 f64 isize i8 i16 i32 i64 usize u8 u16 u32 u64 bool str String</Keywords>
             <Keywords name="Keywords4">macro_rules! fmt! format! env! try! stringify! include! include_str! include_bin! error! warn! info! debug! assert! assert_eq! println! print! write! panic! vec! ident expr ty pat block</Keywords>
             <Keywords name="Keywords5"></Keywords>
-            <Keywords name="Keywords6">* &amp; &apos; $ &amp;mut</Keywords>
+            <Keywords name="Keywords6">* &amp; \&apos; $ &amp;mut &amp;\&apos;</Keywords>
             <Keywords name="Keywords7"></Keywords>
             <Keywords name="Keywords8"></Keywords>
             <Keywords name="Delimiters">00&quot; 01\&quot; 02&quot; 03#[ 04 05] 06#![ 07 08] 09r&quot; 10 11&quot; 12&apos; 13\&apos; 14&apos; 15 16 17 18 19 20 21 22 23</Keywords>
